@@ -9,32 +9,11 @@
 ---
 
 ### 🧠 My "Agentic" Workflow
-```mermaid
-graph TD
-    subgraph "The Reasoning Engine"
-        A[User Request] --> B[Supervisor Agent]
-        B --> C{Strategic Plan}
-        C --> D[Research Swarm]
-        C --> E[Tool Execution]
-        D & E --> F[Shared State Memory]
-    end
+<div align="center">
+  <img src="workflow.png" alt="Advanced Agentic Workflow Architecture" width="850" />
+</div>
 
-    subgraph "The Quality Loop"
-        F --> G{Self-Reflection}
-        G -- "Error Detected" --> C
-        G -- "Quality Pass" --> H[Human Supervisor]
-    end
-
-    H -- "Approved" --> I[Production Result]
-    H -- "Feedback" --> C
-
-    style B fill:#ccff00,stroke:#000,color:#000
-    style D fill:#c084fc,stroke:#fff,color:#fff
-    style E fill:#c084fc,stroke:#fff,color:#fff
-    style G fill:#f472b6,stroke:#fff,color:#fff
-    style H fill:#10B981,stroke:#fff,color:#fff
-    style I fill:#ccff00,stroke:#000,color:#000
-```
+<br />
 
 | 🚀 The Mission | 🎯 Key Outcomes |
 | :--- | :--- |
