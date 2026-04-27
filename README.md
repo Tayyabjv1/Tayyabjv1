@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=c084fc&center=true&vCenter=true&width=500&lines=%5Bsystem%5D+Initializing+Agentic+Core...;%5Bsystem%5D+Loading+LangGraph+State+Machine...;%5Bsystem%5D+Optimizing+Token+Budgets...;%5Bsystem%5D+Status%3A+Production+Ready" alt="System initializing for AI automation and multi-agent systems" />
 </div>
 
----
-
-### 🧠 My "Agentic" Workflow
-<div align="center">
-  <img src="workflow.png" alt="Advanced Agentic Workflow Architecture" width="850" />
-</div>
 
 <br />
 
