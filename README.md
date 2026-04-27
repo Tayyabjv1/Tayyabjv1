@@ -81,6 +81,6 @@ I am currently open to the following types of engagements:
 ---
 
 ### 📥 Let's build something autonomous
-[**Book a Scoping Call**](https://calendly.com/tayyabjaved) | [**View Portfolio**](https://tayyabjaved.com) | [**LinkedIn**](https://linkedin.com/in/tayyabjaved)
+[**Book a Scoping Call**](https://cal.com/tayyab-javed-ubhldo/30min) | [**View Portfolio**](https://hireagentic.dev/) | [**LinkedIn**](https://www.linkedin.com/in/tayyabjaved0786/)
 
 *"The best agents are the ones you forget are there."*
